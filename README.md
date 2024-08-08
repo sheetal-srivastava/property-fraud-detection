@@ -1,4 +1,4 @@
-# Unsupervised anomaly detection 
+# Unsupervised Anomaly Detection 
 ## To identify unusual property valuations
 
 This repo has some good example algorithms to do a forensic-type analysis, looking for anomalies in a dataset. We first do some data cleaning (exclusions, imputation, don't remove outliers - that's what we're looking for), then build variables that are designed to look for the kinds of anomalies we are interested in, in this case, unusual property valuations.
